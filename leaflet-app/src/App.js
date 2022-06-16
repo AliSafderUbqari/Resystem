@@ -8,7 +8,7 @@ function App() {
 
   return (    
     <MapContainer
-      style={{ height: "100vh", width: "100vw" }}
+      style={{ height: "100vh", width: "100vw" }}    
       center={position}
       zoom={13}
       scrollWheelZoom={false}
